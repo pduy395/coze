@@ -1,0 +1,12 @@
+@import './base.css';
+
+.ant-tabs-nav-operations {
+  display: none !important;
+}
+
+.ant-form-item {
+  margin-bottom: 4px !important;
+}
+.ant-form-item-label {
+  padding-bottom: 0px !important;
+}
